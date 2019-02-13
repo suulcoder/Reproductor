@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_first"
+        android:icon="@android:drawable/ic_media_rew"
+        android:title="@string/first" />
+
+
+    <item
+        android:id="@+id/navigation_back"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="@string/back" />
+
+    <item
+        android:id="@+id/navigation_play"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="@string/play" />
+
+    <item
+        android:id="@+id/navigation_next"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="@string/next" />
+
+
+    <item
+        android:id="@+id/navigation_last"
+        android:icon="@android:drawable/ic_media_ff"
+        android:title="@string/last" />
+</menu>
